@@ -15,5 +15,5 @@ for i in arr:
 	result = result.replace(',', '')
 	print(result)
 
-# 11줄 for문 하단 5줄은
+# 12라인 ~ 16 라인은
 # print(i[0], i[1]) 1줄로 표현이 가능하다... ^^;
